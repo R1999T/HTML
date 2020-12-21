@@ -1,0 +1,22 @@
+a:hover{
+    color: darkolivegreen;
+    text-decoration: darkorchid;
+}
+
+a{
+    color: darkseagreen;
+}
+
+#heading{
+    color: darkslateblue;
+    background-color: darkturquoise;
+}
+
+li[class]{
+    font-size: 300%;
+    color: darkviolet;
+}
+
+* {
+    list-style-type: lower-latin;
+}
